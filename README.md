@@ -1,5 +1,5 @@
 # dotfiles2
-Dotfiles for i3-gaps and polybar setup on r/unixporn
+Dotfiles for i3-gaps and polybar for my Arch build.
 
 ![alt text](https://raw.githubusercontent.com/anubhabckbty/dotfiles2/master/2019-07-16-004618_1920x1080_scrot.png)
 ![alt text](https://raw.githubusercontent.com/anubhabckbty/dotfiles2/master/2019-07-16-100836_1920x1080_scrot.png)
