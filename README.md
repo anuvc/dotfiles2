@@ -9,3 +9,5 @@ Dotfiles for i3-gaps and polybar for my Arch build.
 
 These config files have some specific settings to my system, I don't think you would be pleased with the results if you copy directly.
 Rather, try to gather the essence of the files, if you want to replicate the visual effects.
+
+For spotify in the polybar check out this [repository](https://github.com/Jvanrhijn/polybar-spotify). 
